@@ -1,0 +1,9 @@
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--blue);
+  color: var(--white);
+}
